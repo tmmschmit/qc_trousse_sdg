@@ -2525,6 +2525,7 @@ li[aria-selected=true] {
   display: flex;
   align-items: center;
   min-height: 2.5rem;
+  text-align: left;
 }
 .qc-dropdown-list-multiple.qc-dropdown-list-active:hover, .qc-dropdown-list-single.qc-dropdown-list-active:hover {
   background-color: var(--qc-color-grey-pale);

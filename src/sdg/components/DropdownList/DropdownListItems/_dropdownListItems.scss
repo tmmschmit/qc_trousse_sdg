@@ -23,6 +23,7 @@ $min-height: 40;
   display: flex;
   align-items: center;
   min-height: rem($min-height);
+  text-align: left;
 
   &.qc-dropdown-list-active:hover {
     background-color: token-value(color, grey, pale);
